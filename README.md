@@ -5,4 +5,4 @@ Here is the link to the dataset. [HR Attrition Dataset](https://www.kaggle.com/d
 
 ## Overview of the Dataset
 ![Data Overview]
-(hrAttrition/Data Overview.PNG)
+(Data Overview.PNG)
