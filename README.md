@@ -63,7 +63,7 @@ Below are the snapshots of some of the measures that I created.
 ![Age Group](https://github.com/thelukmonkazeem/hrAttrition/blob/main/ageGroup.PNG)
 
 **Attrition Rate:** This measure calculate the attriiton rate of the employees.
-![Attrition rate](https://github.com/thelukmonkazeem/hrAttrition/blob/main/attrition.PNG)
+![Attrition rate](https://github.com/thelukmonkazeem/hrAttrition/blob/main/attritionrate.PNG)
 
 ## Dashboard Snapshots
 ### HR Analytics
