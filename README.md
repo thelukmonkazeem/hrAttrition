@@ -21,3 +21,4 @@ Here is the link to the dataset. [HR Attrition Dataset](https://www.kaggle.com/d
 ### HR Attrition Analysis
 ![HR Attrition Analysis](https://github.com/thelukmonkazeem/hrAttrition/blob/main/3.jpg)
 
+You can interact with the full dashboard [here].(https://app.powerbi.com/view?r=eyJrIjoiMDU0YmY2ZDUtYTc5ZS00ODFlLWJmY2UtZDU0NjViMWJkMDE4IiwidCI6IjcxNDg1YWRiLTNkOTktNDg0OS05MjFhLTlhZWQ5MTJkNWYzZSJ9)
