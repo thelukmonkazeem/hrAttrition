@@ -12,9 +12,12 @@ Here is the link to the dataset. [HR Attrition Dataset](https://www.kaggle.com/d
 
 
 ## Dashboard Snapshots
+### HR Analytics
 ![HR Analytics](https://github.com/thelukmonkazeem/hrAttrition/blob/main/1.jpg)
 
+### HR Performance
 ![HR Performance](https://github.com/thelukmonkazeem/hrAttrition/blob/main/2.jpg)
 
+### HR Attrition Analysis
 ![HR Attrition Analysis](https://github.com/thelukmonkazeem/hrAttrition/blob/main/3.jpg)
 
