@@ -24,6 +24,15 @@ Here is the link to the dataset. [HR Attrition Dataset](https://www.kaggle.com/d
 ![Data Overview](https://github.com/thelukmonkazeem/hrAttrition/blob/main/Data%20Overview.PNG)
 
 
+## Data Cleaning
+
+During the data cleaning phase, I executed the following actions to ensure dataset cleanliness and accuracy:
+
+- I renamed the attrition column to status and transformed the values from Yes or No to turnover and retention, respectively.
+- I changed the education values from a scale of 1-5 to a more descriptive range from SSCE to PhD.
+- I renamed the employeeNumber column to employeeID for improved clarity.
+- I modified the values of environment satisfaction, job involvement, job satisfaction, and relationship satisfaction from 1-4 to a more intuitive scale ranging from Low to Very High.
+
 ## Data Model
 The data model showcases the connections between the created tables. The Hrmaster table serves as the main focus of analysis, known as the fact table, while other tables like employee and salary function as supporting dimension tables.
 
@@ -46,6 +55,15 @@ Finally, the HrMaster table acts as the central repository, serving as the maste
 
 ![Data Model](https://github.com/thelukmonkazeem/hrAttrition/blob/main/DataModel.PNG)
 
+
+## Measures
+Below are the snapshots of some of the measures that I created.
+
+**Age Group:** The age group measure creates a category for employee's age.
+![Age Group](https://github.com/thelukmonkazeem/hrAttrition/blob/main/ageGroup.PNG)
+
+**Attrition Rate:** This measure calculate the attriiton rate of the employees.
+![Attrition rate](https://github.com/thelukmonkazeem/hrAttrition/blob/main/attrition.PNG)
 
 ## Dashboard Snapshots
 ### HR Analytics
