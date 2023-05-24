@@ -25,6 +25,25 @@ Here is the link to the dataset. [HR Attrition Dataset](https://www.kaggle.com/d
 
 
 ## Data Model
+The data model showcases the connections between the created tables. The Hrmaster table serves as the main focus of analysis, known as the fact table, while other tables like employee and salary function as supporting dimension tables.
+
+In Power BI, fact and dimension tables are fundamental components. The fact table contains the core data that is the primary focus of analysis, while dimension tables provide additional descriptive information about various aspects of the analysis.
+
+
+To streamline and simplify the data analysis process, I organized the data into distinct tables. Each table serves a specific purpose, enhancing the clarity and ease of analysis.
+
+The **Employee** table holds valuable information about employees, including details such as age, department, and more.
+
+The **Salary** table focuses on employee compensation, resembling a payroll database.
+
+The **HrMetric** table encompasses essential columns such as job involvement, job satisfaction, relationship satisfaction, and environment satisfaction, providing valuable insights into employee metrics.
+
+The **JobInfo** table revolves around job-related information, offering comprehensive data related to various job aspects.
+
+The **Performance** table concentrates on employee performance, capturing crucial performance-related data.
+
+Finally, the HrMaster table acts as the central repository, serving as the master table that integrates and connects the other tables for comprehensive analysis.
+
 ![Data Model](https://github.com/thelukmonkazeem/hrAttrition/blob/main/DataModel.PNG)
 
 
